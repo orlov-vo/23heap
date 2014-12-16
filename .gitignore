@@ -26,3 +26,6 @@
 *.exe
 *.out
 *.app
+
+# Directory-based JetBrain project format:
+.idea/
